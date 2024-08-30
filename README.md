@@ -63,7 +63,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/yusha0123/Yoom
+git clone https://github.com/soura07/YOOM_Online_Meeting_Platform.git
 cd Yoom
 ```
 ## Technologies Used
