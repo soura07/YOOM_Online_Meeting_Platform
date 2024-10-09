@@ -8,6 +8,18 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
+### Technologies Used
+
+| Technology        | Description                                                              | Role                                                                                              |
+|-------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| **Next.js**       | A React framework for building fast, SEO-friendly web applications.       | Provides the core structure for server-side rendering, routing, and efficient data fetching.       |
+| **TypeScript**    | A typed superset of JavaScript that compiles to plain JavaScript.         | Ensures type safety, better code readability, and fewer runtime errors during development.         |
+| **Tailwind CSS**  | A utility-first CSS framework for rapid UI development.                   | Speeds up the styling process with pre-defined classes for customizing the user interface easily.   |
+| **Clerk**         | An API for managing user authentication and identity.                    | Facilitates secure and efficient user login, sign-up, and session management for Yoom users.       |
+| **Stream**        | A scalable API for real-time chat and video functionalities.              | Powers Yoom’s video calling and real-time messaging features, enabling seamless communication.     |
+| **Shadcn/UI**     | A React component library with modern design.                            | Provides pre-built UI components for a consistent and responsive design throughout the application.|
+| **getstream.io**  | A service for scalable, real-time messaging and notifications.            | Implements chat functionalities, allowing users to communicate in real-time during meetings.       |
+| **Vercel**        | A cloud platform for static sites and serverless functions.               | Hosts and deploys Yoom, ensuring high performance and automatic scaling for large traffic loads.   |
 
 ## <a name="introduction"></a>🤖 Introduction
 
