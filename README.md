@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Yoom - A Video Conferencing Application</h1>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -79,7 +78,7 @@ git clone https://github.com/soura07/YOOM_Online_Meeting_Platform.git
 cd Yoom
 ```
 ## Technologies Used
-<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Technologies" style="width: 50px; height: auto; margin: 10px; padding: 0; border-radius: 50%;"> <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="Technologies" style="width: 50px; height: auto; margin: 10px; padding: 0; border-radius: 50%;">  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Technologies" style="width: 50px; height: auto; margin: 0; padding: 0; border-radius: 50%;"> <img src="https://media.dev.to/cdn-cgi/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F3958%2Fb1c82f7e-763f-4100-8a32-9388e33566dd.png" alt="Technologies" style="width: 50px; height: auto; margin: 0; padding: 0; border-radius: 50%;">  <img src="https://user-images.githubusercontent.com/24237865/138428440-b92e5fb7-89f8-41aa-96b1-71a5486c5849.png" alt="Technologies" style="width: 50px; height: auto; margin: 0; padding: 0; border-radius: 50%;"> 
+<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Technologies" style="width: 50px; height: auto; margin: 10px; padding: 0; border-radius: 50%;"> <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="Technologies" style="width: 50px; height: auto; margin: 10px; padding: 0; border-radius: 50%;">  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Technologies" style="width: 50px; height: auto; margin: 0; padding: 0; border-radius: 50%;"> <img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2024-03-19-ts-shadcn/social.png" alt="Technologies" style="width: 80px; height: 50px; margin: 0; padding: 0; border-radius: 50%;">  <img src="https://user-images.githubusercontent.com/24237865/138428440-b92e5fb7-89f8-41aa-96b1-71a5486c5849.png" alt="Technologies" style="width: 50px; height: 5; margin: 0; padding: 0; border-radius: 50%;"> 
 ## Sign-In & Sign-Up Page
 ![sign](https://github.com/user-attachments/assets/4285bacb-394f-4133-a2fc-1831f56514f1)
 ## Home Page
